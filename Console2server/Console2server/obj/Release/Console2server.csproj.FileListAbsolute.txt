@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\bin\Release\Console2server.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\bin\Release\Console2server.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\bin\Release\Console2server.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\bin\Release\protocol.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\bin\Release\protocol.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\bin\Release\Server2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\obj\Release\Console2server.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\obj\Release\Console2server.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\obj\Release\Console2server.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\bin\Release\Server2.dll
+F:\VS project\Console2server\Console2server\bin\Release\Console2server.exe.config
+F:\VS project\Console2server\Console2server\bin\Release\Console2server.exe
+F:\VS project\Console2server\Console2server\bin\Release\Console2server.pdb
+F:\VS project\Console2server\Console2server\bin\Release\protocol.dll
+F:\VS project\Console2server\Console2server\bin\Release\Server2.dll
+F:\VS project\Console2server\Console2server\bin\Release\protocol.pdb
+F:\VS project\Console2server\Console2server\bin\Release\Server2.pdb
+F:\VS project\Console2server\Console2server\obj\Release\Console2server.csprojAssemblyReference.cache
+F:\VS project\Console2server\Console2server\obj\Release\Console2server.csproj.CoreCompileInputs.cache
+F:\VS project\Console2server\Console2server\obj\Release\Console2server.csproj.CopyComplete
+F:\VS project\Console2server\Console2server\obj\Release\Console2server.exe
+F:\VS project\Console2server\Console2server\obj\Release\Console2server.pdb

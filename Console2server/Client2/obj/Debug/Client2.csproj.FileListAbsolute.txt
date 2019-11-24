@@ -1,0 +1,16 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Client2\bin\Debug\Client2.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Client2\bin\Debug\Client2.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Client2\bin\Debug\Client2.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Client2\bin\Debug\Server2.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Client2\bin\Debug\Server2.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Client2\obj\Debug\Client2.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Client2\obj\Debug\Client2.pdb
+G:\JAVA_IDEA\VS project\Console2server\Client2\bin\Debug\Client2.exe.config
+G:\JAVA_IDEA\VS project\Console2server\Client2\bin\Debug\Client2.exe
+G:\JAVA_IDEA\VS project\Console2server\Client2\bin\Debug\Client2.pdb
+G:\JAVA_IDEA\VS project\Console2server\Client2\bin\Debug\Server2.dll
+G:\JAVA_IDEA\VS project\Console2server\Client2\bin\Debug\Server2.pdb
+G:\JAVA_IDEA\VS project\Console2server\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+G:\JAVA_IDEA\VS project\Console2server\Client2\obj\Debug\Client2.exe
+G:\JAVA_IDEA\VS project\Console2server\Client2\obj\Debug\Client2.pdb

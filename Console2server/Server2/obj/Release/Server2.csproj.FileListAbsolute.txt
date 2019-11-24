@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Server2\bin\Release\Server2.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Server2\bin\Release\Server2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Server2\obj\Release\Server2.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Server2\obj\Release\Server2.pdb
+F:\VS project\Console2server\Server2\bin\Release\Server2.dll
+F:\VS project\Console2server\Server2\bin\Release\Server2.pdb
+F:\VS project\Console2server\Server2\obj\Release\Server2.csproj.CoreCompileInputs.cache
+F:\VS project\Console2server\Server2\obj\Release\Server2.dll
+F:\VS project\Console2server\Server2\obj\Release\Server2.pdb

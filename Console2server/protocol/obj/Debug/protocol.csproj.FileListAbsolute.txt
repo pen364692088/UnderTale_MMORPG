@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\protocol\bin\Debug\protocol.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\protocol\bin\Debug\protocol.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\protocol\obj\Debug\protocol.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\protocol\obj\Debug\protocol.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\protocol\obj\Debug\protocol.pdb
+F:\VS project\Console2server\protocol\bin\Debug\protocol.dll
+F:\VS project\Console2server\protocol\bin\Debug\protocol.pdb
+F:\VS project\Console2server\protocol\obj\Debug\protocol.csprojAssemblyReference.cache
+F:\VS project\Console2server\protocol\obj\Debug\protocol.csproj.CoreCompileInputs.cache
+F:\VS project\Console2server\protocol\obj\Debug\protocol.dll
+F:\VS project\Console2server\protocol\obj\Debug\protocol.pdb
+G:\JAVA_IDEA\UnityProject\地下城冒险\Assets\Plugins\protocol.dll
+G:\JAVA_IDEA\UnityProject\地下城冒险\Assets\Plugins\protocol.pdb
+G:\JAVA_IDEA\VS project\Console2server\protocol\obj\Debug\protocol.dll
+G:\JAVA_IDEA\VS project\Console2server\protocol\obj\Debug\protocol.pdb
+G:\JAVA_IDEA\VS project\Console2server\protocol\obj\Debug\protocol.csprojResolveAssemblyReference.cache
+H:\JAVA_IDEA\UnityProject\地下城冒险\Assets\Plugins\protocol.dll
+H:\JAVA_IDEA\UnityProject\地下城冒险\Assets\Plugins\protocol.pdb
+H:\JAVA_IDEA\VS project\Console2server\protocol\obj\Debug\protocol.csprojAssemblyReference.cache
+H:\JAVA_IDEA\VS project\Console2server\protocol\obj\Debug\protocol.csproj.CoreCompileInputs.cache
+H:\JAVA_IDEA\VS project\Console2server\protocol\obj\Debug\protocol.dll
+H:\JAVA_IDEA\VS project\Console2server\protocol\obj\Debug\protocol.pdb

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{47D9E8BC-4144-47F9-A99A-8ABB1166EFE3}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GameServer</RootNamespace>
+    <AssemblyName>Console2server</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cache\AccountCache.cs" />
+    <Compile Include="Cache\Caches.cs" />
+    <Compile Include="Cache\Fight\FightRoom.cs" />
+    <Compile Include="Cache\Fight\Library.cs" />
+    <Compile Include="Cache\Fight\Round.cs" />
+    <Compile Include="Cache\Match\MatchCache.cs" />
+    <Compile Include="Cache\Match\MatchRoom.cs" />
+    <Compile Include="Cache\UserCache.cs" />
+    <Compile Include="Cache\World\WorldRoom.cs" />
+    <Compile Include="Cache\World\WorldRoomCache.cs" />
+    <Compile Include="GameServer.cs" />
+    <Compile Include="Logic\AccountHandler.cs" />
+    <Compile Include="Logic\ChartHandler.cs" />
+    <Compile Include="Logic\FightHandler.cs" />
+    <Compile Include="Logic\IHandler.cs" />
+    <Compile Include="Logic\MatchHandler.cs" />
+    <Compile Include="Logic\SyncHandler.cs" />
+    <Compile Include="Logic\UserHandler.cs" />
+    <Compile Include="Logic\WorldHandler.cs" />
+    <Compile Include="Model\AccountModel.cs" />
+    <Compile Include="Model\MonsterBase.cs" />
+    <Compile Include="Model\UserModel.cs" />
+    <Compile Include="NetMsgCenter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\protocol\protocol.csproj">
+      <Project>{27f92be9-1bbe-4e6d-b504-b63a0c5e93cf}</Project>
+      <Name>protocol</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Server2\Server2.csproj">
+      <Project>{00d5bc83-67ba-4ce7-bc4d-6619ba3fb65a}</Project>
+      <Name>Server2</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

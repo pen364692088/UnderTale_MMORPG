@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\protocol\bin\Release\protocol.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\protocol\bin\Release\protocol.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\protocol\bin\Release\UnityEngine.dll
+G:\Unity file\CardGame\Assets\Plugins\protocol.dll
+G:\Unity file\CardGame\Assets\Plugins\protocol.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\protocol\obj\Release\protocol.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\protocol\obj\Release\protocol.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\protocol\obj\Release\protocol.csprojResolveAssemblyReference.cache

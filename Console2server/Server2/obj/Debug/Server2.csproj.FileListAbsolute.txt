@@ -1,0 +1,27 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Server2\bin\Debug\Server2.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Server2\bin\Debug\Server2.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Server2\obj\Debug\Server2.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Server2\obj\Debug\Server2.pdb
+C:\Users\Administrator\Documents\visual studio 2013\Projects\Console2server\Server2\obj\Debug\Server2.csprojResolveAssemblyReference.cache
+F:\VS project\Console2server\Server2\bin\Debug\Server2.dll
+F:\VS project\Console2server\Server2\bin\Debug\Server2.pdb
+F:\VS project\Console2server\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+F:\VS project\Console2server\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+F:\VS project\Console2server\Server2\obj\Debug\Server2.dll
+F:\VS project\Console2server\Server2\obj\Debug\Server2.pdb
+F:\VS project\serverLib\Server2.dll
+F:\VS project\serverLib\Server2.pdb
+F:\Unity Project\myDark Souls\Packages\Server2.dll
+F:\Unity Project\myDark Souls\Packages\Server2.pdb
+F:\Unity Project\myDark Souls\Assets\plugins\Server2.dll
+F:\Unity Project\myDark Souls\Assets\plugins\Server2.pdb
+G:\JAVA_IDEA\Unity Project\myDark Souls\Assets\plugins\Server2.dll
+G:\JAVA_IDEA\Unity Project\myDark Souls\Assets\plugins\Server2.pdb
+G:\JAVA_IDEA\VS project\Console2server\Server2\obj\Debug\Server2.dll
+G:\JAVA_IDEA\VS project\Console2server\Server2\obj\Debug\Server2.pdb
+H:\JAVA_IDEA\Unity Project\myDark Souls\Assets\plugins\Server2.dll
+H:\JAVA_IDEA\Unity Project\myDark Souls\Assets\plugins\Server2.pdb
+H:\JAVA_IDEA\VS project\Console2server\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+H:\JAVA_IDEA\VS project\Console2server\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+H:\JAVA_IDEA\VS project\Console2server\Server2\obj\Debug\Server2.dll
+H:\JAVA_IDEA\VS project\Console2server\Server2\obj\Debug\Server2.pdb

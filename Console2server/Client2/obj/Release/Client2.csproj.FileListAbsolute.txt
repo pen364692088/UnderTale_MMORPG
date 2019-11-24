@@ -1,0 +1,18 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Client2\bin\Release\Client2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Client2\bin\Release\Client2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Client2\bin\Release\Client2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Client2\bin\Release\Server2.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Client2\bin\Release\Server2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Client2\obj\Release\Client2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Client2\obj\Release\Client2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Client2\obj\Release\Client2.pdb
+F:\VS project\Console2server\Client2\bin\Release\Client2.exe.config
+F:\VS project\Console2server\Client2\bin\Release\Client2.exe
+F:\VS project\Console2server\Client2\bin\Release\Client2.pdb
+F:\VS project\Console2server\Client2\bin\Release\Server2.dll
+F:\VS project\Console2server\Client2\bin\Release\Server2.pdb
+F:\VS project\Console2server\Client2\obj\Release\Client2.csprojAssemblyReference.cache
+F:\VS project\Console2server\Client2\obj\Release\Client2.csproj.CoreCompileInputs.cache
+F:\VS project\Console2server\Client2\obj\Release\Client2.csproj.CopyComplete
+F:\VS project\Console2server\Client2\obj\Release\Client2.exe
+F:\VS project\Console2server\Client2\obj\Release\Client2.pdb

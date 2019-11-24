@@ -1,0 +1,44 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Console2server\Console2server\bin\Debug\Console2server.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Console2server\bin\Debug\Console2server.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Console2server\bin\Debug\Console2server.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Console2server\bin\Debug\Server2.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Console2server\bin\Debug\Server2.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Console2server\obj\Debug\Console2server.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Console2server\obj\Debug\Console2server.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\Console2server\Console2server\obj\Debug\Console2server.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\bin\Debug\protocol.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Console2server\Console2server\bin\Debug\protocol.pdb
+F:\VS project\Console2server\Console2server\bin\Debug\Console2server.exe.config
+F:\VS project\Console2server\Console2server\bin\Debug\Console2server.exe
+F:\VS project\Console2server\Console2server\bin\Debug\Console2server.pdb
+F:\VS project\Console2server\Console2server\bin\Debug\protocol.dll
+F:\VS project\Console2server\Console2server\bin\Debug\Server2.dll
+F:\VS project\Console2server\Console2server\bin\Debug\protocol.pdb
+F:\VS project\Console2server\Console2server\bin\Debug\Server2.pdb
+F:\VS project\Console2server\Console2server\obj\Debug\Console2server.csprojAssemblyReference.cache
+F:\VS project\Console2server\Console2server\obj\Debug\Console2server.csproj.CoreCompileInputs.cache
+F:\VS project\Console2server\Console2server\obj\Debug\Console2server.csproj.CopyComplete
+F:\VS project\Console2server\Console2server\obj\Debug\Console2server.exe
+F:\VS project\Console2server\Console2server\obj\Debug\Console2server.pdb
+G:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\Console2server.exe.config
+G:\JAVA_IDEA\VS project\Console2server\Console2server\obj\Debug\Console2server.exe
+G:\JAVA_IDEA\VS project\Console2server\Console2server\obj\Debug\Console2server.pdb
+G:\JAVA_IDEA\VS project\Console2server\Console2server\obj\Debug\Console2server.csprojResolveAssemblyReference.cache
+G:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\Console2server.exe
+G:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\Console2server.pdb
+G:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\protocol.dll
+G:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\Server2.dll
+G:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\protocol.pdb
+G:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\Server2.pdb
+H:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\Console2server.exe.config
+H:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\Console2server.exe
+H:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\Console2server.pdb
+H:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\protocol.dll
+H:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\Server2.dll
+H:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\protocol.pdb
+H:\JAVA_IDEA\VS project\Console2server\Console2server\bin\Debug\Server2.pdb
+H:\JAVA_IDEA\VS project\Console2server\Console2server\obj\Debug\Console2server.csprojAssemblyReference.cache
+H:\JAVA_IDEA\VS project\Console2server\Console2server\obj\Debug\Console2server.csproj.CoreCompileInputs.cache
+H:\JAVA_IDEA\VS project\Console2server\Console2server\obj\Debug\Console2server.csproj.CopyComplete
+H:\JAVA_IDEA\VS project\Console2server\Console2server\obj\Debug\Console2server.exe
+H:\JAVA_IDEA\VS project\Console2server\Console2server\obj\Debug\Console2server.pdb
