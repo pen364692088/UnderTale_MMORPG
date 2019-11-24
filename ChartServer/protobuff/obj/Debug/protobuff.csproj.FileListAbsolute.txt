@@ -1,0 +1,12 @@
+G:\JAVA_IDEA\UnityProject\UnderTale_Test\Assets\Plugins\protobuff.dll
+G:\JAVA_IDEA\UnityProject\UnderTale_Test\Assets\Plugins\protobuff.pdb
+G:\JAVA_IDEA\VS project\ChartServer\protobuff\obj\Debug\protobuff.csproj.CoreCompileInputs.cache
+G:\JAVA_IDEA\VS project\ChartServer\protobuff\obj\Debug\protobuff.dll
+G:\JAVA_IDEA\VS project\ChartServer\protobuff\obj\Debug\protobuff.pdb
+H:\JAVA_IDEA\UnityProject\UnderTale_Test\Assets\Plugins\protobuff.dll
+H:\JAVA_IDEA\UnityProject\UnderTale_Test\Assets\Plugins\protobuff.pdb
+H:\JAVA_IDEA\VS project\ChartServer\protobuff\obj\Debug\protobuff.csproj.CoreCompileInputs.cache
+H:\JAVA_IDEA\VS project\ChartServer\protobuff\obj\Debug\protobuff.dll
+H:\JAVA_IDEA\VS project\ChartServer\protobuff\obj\Debug\protobuff.pdb
+H:\JAVA_IDEA\VS project\ChartServer\protobuff\obj\Debug\protobuff.csproj.CopyComplete
+H:\JAVA_IDEA\VS project\ChartServer\protobuff\obj\Debug\protobuff.csprojAssemblyReference.cache

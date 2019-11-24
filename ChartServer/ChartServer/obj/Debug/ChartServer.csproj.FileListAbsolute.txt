@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ChartServer\bin\ChartServer.dll
+C:\Users\Administrator\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ChartServer\bin\ChartServer.pdb
+G:\JAVA_IDEA\VS project\ChartServer\ChartServer\obj\Debug\ChartServer.csproj.CoreCompileInputs.cache
+G:\JAVA_IDEA\VS project\ChartServer\ChartServer\obj\Debug\ChartServer.csproj.CopyComplete
+G:\JAVA_IDEA\VS project\ChartServer\ChartServer\obj\Debug\ChartServer.dll
+G:\JAVA_IDEA\VS project\ChartServer\ChartServer\obj\Debug\ChartServer.pdb
+G:\JAVA_IDEA\VS project\ChartServer\ChartServer\obj\Debug\ChartServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ChartServer\bin\log4net.config
+H:\JAVA_IDEA\VS project\ChartServer\ChartServer\obj\Debug\ChartServer.csprojAssemblyReference.cache
+H:\JAVA_IDEA\VS project\ChartServer\ChartServer\obj\Debug\ChartServer.csproj.CoreCompileInputs.cache
+H:\JAVA_IDEA\VS project\ChartServer\ChartServer\obj\Debug\ChartServer.csproj.CopyComplete
+H:\JAVA_IDEA\VS project\ChartServer\ChartServer\obj\Debug\ChartServer.dll
+H:\JAVA_IDEA\VS project\ChartServer\ChartServer\obj\Debug\ChartServer.pdb
