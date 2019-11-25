@@ -1,0 +1,63 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+public class UIBase : MonoBase
+{
+
+    protected List<int> list = new List<int>();
+
+
+    /// <summary>
+    /// 绑定一个或多个消息
+    /// </summary>
+    /// <param name="eventCodes">Event codes.</param>
+    protected void Bind(params int[] eventCodes)
+    {
+        list.AddRange(eventCodes);
+        UIManager.Instance.Add(list.ToArray(), this);
+    }
+
+    /// <summary>
+    /// 接触绑定的消息
+    /// </summary>
+    protected void UnBind()
+    {
+        UIManager.Instance.Remove(list.ToArray(), this);
+        list.Clear();
+    }
+
+    /// <summary>
+    /// 自动移除绑定的消息
+    /// </summary>
+    public virtual void OnDestroy()
+    {
+        if (list != null)
+            UnBind();
+    }
+
+    /// <summary>
+    /// 发消息
+    /// </summary>
+    /// <param name="areaCode">Area code.</param>
+    /// <param name="eventCode">Event code.</param>
+    /// <param name="message">Message.</param>
+    public void Dispatch(int areaCode, int eventCode, object message)
+    {
+
+        UIMsgCenter.Instance.Dispatch((AreaCode)areaCode, eventCode, message);
+    }
+
+    /// <summary>
+    /// 设置面板显示
+    /// </summary>
+    /// <param name="active"></param>
+    protected void setPanelActive(bool active)
+    {
+        gameObject.SetActive(active);
+    }
+}
+
